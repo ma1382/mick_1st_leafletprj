@@ -38,7 +38,7 @@ var MNVenues = [
   {
     name: 'Terminal 5',
     fyi: 'Indie bands & more make some noise at this sprawling venue on the western fringe of Hells Kitchen',
-    coord: [40.719112, -73.961461],
+    coord: [40.769661, -73.992345],
   },
   {
     name: 'Hammerstein Ballroom',
