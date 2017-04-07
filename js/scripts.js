@@ -74,7 +74,7 @@ var BKVenues = [
 
 //add markers for venues
 
-var MNVenueslayergroup = L.layerGroup();
+var MNVenuesLayerGroup = L.layerGroup();
 
 MNVenues.forEach(function(data) {
   var thisMarker = L.marker(data.coord, {
